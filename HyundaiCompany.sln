@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyundaiCompany.Api", "HyundaiCompany.Api\HyundaiCompany.Api.csproj", "{659CD31C-BF2E-4A99-82A0-84F963981F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyundaiCompany.MVC", "HyundaiCompany.MVC\HyundaiCompany.MVC.csproj", "{597712DF-0007-44CB-8FBE-8255A513125C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659CD31C-BF2E-4A99-82A0-84F963981F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659CD31C-BF2E-4A99-82A0-84F963981F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659CD31C-BF2E-4A99-82A0-84F963981F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659CD31C-BF2E-4A99-82A0-84F963981F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597712DF-0007-44CB-8FBE-8255A513125C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597712DF-0007-44CB-8FBE-8255A513125C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597712DF-0007-44CB-8FBE-8255A513125C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597712DF-0007-44CB-8FBE-8255A513125C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D035D5-62AB-4B26-AF39-440D407ED1B2}
+	EndGlobalSection
+EndGlobal
